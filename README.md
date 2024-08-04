@@ -21,6 +21,8 @@ The OG Image Generator is a  React application that allows users to create a pos
 
 1. Clone the repository using the command:
    git clone https://github.com/clementrozario/OG-Image_Generator.git
+
 2.Navigate to the directory
   Eg: cd OG-Image_Generator
+
 3.npm start
